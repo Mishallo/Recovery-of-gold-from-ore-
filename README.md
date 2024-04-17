@@ -12,9 +12,9 @@ Instructions for the implementation of the project
 1. Prepare the data  
 1.1. Open the files and examine them.  
 File path:  
-/datasets/gold_industry_train.csv. Download dataset  
-/datasets/gold_industry_test.csv. Download dataset  
-/datasets/gold_industry_full.csv. Download the dataset  
+/datasets/gold_industry_train.csv.[ Download dataset](https://code.s3.yandex.net/datasets/gold_industry_train.csv)  
+/datasets/gold_industry_test.csv. [Download dataset](https://code.s3.yandex.net/datasets/gold_industry_test.csv)  
+/datasets/gold_industry_full.csv. [Download the dataset ](https://code.s3.yandex.net/datasets/gold_industry_full.csv)   
 1.2. Check that the enrichment efficiency is calculated correctly. Calculate it on the training sample for the rougher.output.recovery attribute. Find the MAE between your calculations and the attribute value. Describe the conclusions.  
 1.3. Analyze the features that are not available in the test sample. What are these parameters? What type do they belong to?  
 1.4. Perform data preprocessing.  
